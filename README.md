@@ -45,7 +45,7 @@ MineSweeper console game
        For every click, the program will ask row, column numbers belongs to a particular cell. The board layout is as shown below
 
 6) Board representation
-
+{code}
         0 1 2 3 4 5 6 7 8 
     
     0   1 2 3 * 1 1 1 1 0 
@@ -57,6 +57,7 @@ MineSweeper console game
     6   * 2 1 1 1 * 2 1 0 
     7   1 2 * 1 1 2 * 1 0 
     8   0 1 1 1 0 1 1 1 0 
+{code}
 
     In a 9 x 9 board, each cell is represented by (row, column) numbers
     The first row represents column numbers
