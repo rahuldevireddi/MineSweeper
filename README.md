@@ -1,4 +1,4 @@
-#MineSweeper console game
+MineSweeper console game
 ------------------------
 
 1. Source code file
